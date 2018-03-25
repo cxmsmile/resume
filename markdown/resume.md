@@ -1,39 +1,37 @@
 Zhichao ZHAO
 ============
 
----------   --------------------------
-email:      zczhao@google.com
-github:     github.com/zzc0817
-linkedin:   linkedin.com/in/zzc0817
----------   --------------------------
+> Email: zczhao@google.com • Github: github.com/zzc0817
 
 Education
 ---------
-* 2012 Sept. - 2016 Aug.:
-  **PhD, Computer Science**; The University of Hong Kong, Hong Kong
+2012 - 2016
+:   **Ph.D, Computer Science**; The University of Hong Kong, Hong Kong
 
-  *Research Topoics: Complexity Theroy, Zero-knowledge Proof, Cryptocurrency, Approximation Algorithms.
+    *Research Topoics: Complexity Theroy, Zero-knowledge Proof, Cryptocurrency, Approximation Algorithms.*
 
-  *Thesis title: Private, Secure and Truthful Multi-party Protocols*
+    *Thesis title: Private, Secure and Truthful Multi-party Protocols.*
 
-* 2008 Sept. - 2012 Jun.:
-  **Bachelor, Software Engineering**; Jilin Univerity, China
+2008 - 2012
+:   **Bachelor, Software Engineering**; Jilin Univerity, China
 
-  *Overall GPA: 3.44/4.00; Rank: 17/279*
+    *Overall GPA: 3.44/4.00; Rank: 17/279*
 
-Experience
+Work Experience
 ----------
-* 2016 Aug - present: **Software Engineer, Google (Beijing office)**
-  * Livegraph Polymath - KG Snapshots and Dremelization pipeline.
-  * Livegraph KG-Batch.
+2016 - present
+:   **Software Engineer, Google, Beijing**
+
+    * Livegraph Polymath - KG Snapshots and Dremelization pipeline.
+    * Livegraph KG-Batch.
 
 
 Awards
 ------
-* ACM International Collegiate Programming Contest, Asia Regional (Jakarta Site), 4-th place, 2012
-* ACM International Collegiate Programming Contest, Asia Regional (Harbin Site), Gold Medal, 2010
-* ACM International Collegiate Programming Contest, Asia Regional (Fuzhou Site), Bronze Medal, 2010
-* ACM International Collegiate Programming Contest, Asia Regional (Wuhan Site), Silver Medal, 2009
+* ACM International Collegiate Programming Contest, Asia Regional (Jakarta), 4-th place, 2012
+* ACM International Collegiate Programming Contest, Asia Regional (Harbin), Gold Medal, 2010
+* ACM International Collegiate Programming Contest, Asia Regional (Fuzhou), Bronze Medal, 2010
+* ACM International Collegiate Programming Contest, Asia Regional (Wuhan), Silver Medal, 2009
 
 Publications
 ------------
@@ -57,6 +55,6 @@ ICICS 2015: 82-96
 Double Auction for Resource Allocation in Cloud Computing.
 CLOSER 2017: 273-280
 
-* 	Ahmed E. Kosba, **Zhichao Zhao**, Andrew Miller, Yi Qian, T.-H. Hubert Chan, Charalampos Papamanthou, Rafael Pass, Abhi Shelat, Elaine Shi:
+* Ahmed E. Kosba, **Zhichao Zhao**, Andrew Miller, Yi Qian, T.-H. Hubert Chan, Charalampos Papamanthou, Rafael Pass, Abhi Shelat, Elaine Shi:
 How to Use SNARKs in Universally Composable Protocols.
 ePrint Archive (2015)
