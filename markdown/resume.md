@@ -5,23 +5,23 @@ Zhichao ZHAO
 
 Education
 ---------
-2012 - 2016
+2012.09 - 2016.08
 :   **Ph.D, Computer Science**. The University of Hong Kong, Hong Kong\
     *Field of Study: Theory*\
-    *Research Topics: Complexity Theroy, Approximation Algorithms, Zero-knowledge Proof.*
-    <!--
+    *Research Topics: Complexity Theroy, Approximation Algorithms, Zero-knowledge Proof, Bitcoin.*\
     *Thesis Title: Private, Secure and Truthful Multi-party Protocols.*
-    Add back Cryptocurrency
-    -->
 
-2008 - 2012
+2008.09 - 2012.06
 :   **Bachelor, Software Engineering**. Jilin University, China\
     *Overall GPA: 3.44/4.00; Rank: 17/279*
 
 
 Work Experience
 ---------------
-2016 - present
+2018.04 - present (internal transfer)
+:   **Software Engineer, Google, Mountain View**
+
+2016.08 - 2018.04
 :   **Software Engineer, Google, Beijing**
 
     Develop, improve and maintain several offline access points for the Knowledge Graph.
