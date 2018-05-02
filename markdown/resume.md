@@ -58,19 +58,15 @@ COCOON 2015: 121-132
 * T.-H. Hubert Chan, Xiaowei Wu, Chenzi Zhang, **Zhichao Zhao**:
 Dynamic Tree Shortcut with Constant Degree.
 COCOON 2015: 433-444
-<!--
 * **Zhichao Zhao**, T-H. Hubert Chan:
 How to Vote Privately Using Bitcoin.
 ICICS 2015: 82-96
--->
 * **Zhichao Zhao**, Fei Chen, T.-H. Hubert Chan, Chuan Wu:
 Double Auction for Resource Allocation in Cloud Computing.
 CLOSER 2017: 273-280
-<!--
 * Ahmed E. Kosba, **Zhichao Zhao**, Andrew Miller, Yi Qian, T.-H. Hubert Chan, Charalampos Papamanthou, Rafael Pass, Abhi Shelat, Elaine Shi:
 How to Use SNARKs in Universally Composable Protocols.
 ePrint Archive (2015)
--->
 * Petrie Wong, Cliz Sun, Eric Lo, Man Lung Yiu, Xiaowei Wu, **Zhichao Zhao**, T.-H. Hubert Chan, Ben Kao:
 Finding k most influential edges on flow graphs.
 Inf. Syst. 65: 93-105 (2017)
