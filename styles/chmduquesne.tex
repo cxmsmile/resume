@@ -15,7 +15,7 @@ $if(mainlang)$
 $endif$
 
 \setupcolor[hex]
-\definecolor[titlegrey][h=757575]
+\definecolor[titlegrey][color=black]
 \definecolor[sectioncolor][h=397249]
 \definecolor[rulecolor][h=9cb770]
 
@@ -38,8 +38,7 @@ $endif$
 
 \setuphead[chapter]      [style=\tfd]
 \setuphead[section]      [style=\tfd\bf, color=titlegrey, align=middle]
-\setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right,
-                          before={\leavevmode\blackrule\hspace}]
+\setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right]
 \setuphead[subsubsection][style=\bf]
 
 $if(number-sections)$
